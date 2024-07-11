@@ -1,0 +1,17 @@
+body{
+    background-color: khaki;
+}
+
+h1{
+    text-align:center;
+}
+
+p{
+    color: brown;
+    font-size: 20px;
+}
+
+li{
+    color: rgb(63, 133, 86);
+    font-size: 18px;
+}

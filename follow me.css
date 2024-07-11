@@ -1,0 +1,63 @@
+body{
+    background:linear-gradient(aqua,rgb(0, 183, 255));
+}
+
+.phone{
+    display: flex;
+}
+.imageicon img{
+    height: 200px;
+    width:200px; 
+    margin: 10px;
+    float: left;
+    
+    
+}
+
+.mobile{
+    font-size: 32px;
+    text-align: center;
+    position: relative;
+
+}
+
+.gmail{
+    display: flex;
+}
+
+.gmaillogo img{
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 10px;
+}
+
+.email{
+    font-size: 32px;
+    text-align: center;
+    position: relative;
+    text-align: center;
+
+}
+
+.linkedin{
+    display: flex;
+}
+
+.linkedinlogo img{
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 10px;
+}
+
+.linkedinacc{
+    font-size: 32px;
+    text-align: center;
+    position: relative;
+    text-align: center;
+
+}
+
+
+
